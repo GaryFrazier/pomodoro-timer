@@ -4,7 +4,7 @@ body {
 #timer {
   text-align: center;
   font-size: 10em;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Monaco', sans-serif;
   box-shadow: 5px 5px 2px #888888;
   border-radius: 3px;
   position: relative;
